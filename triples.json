@@ -1,0 +1,38 @@
+[
+    {
+        "subject": "Google",
+        "relation": "developed",
+        "object": "Gemini",
+        "evidence": "Google developed Gemini."
+    },
+    {
+        "subject": "Gemini",
+        "relation": "is",
+        "object": "artificial intelligence model",
+        "evidence": "Gemini is an artificial intelligence model."
+    },
+    {
+        "subject": "OpenAI",
+        "relation": "developed",
+        "object": "ChatGPT",
+        "evidence": "OpenAI developed ChatGPT."
+    },
+    {
+        "subject": "ChatGPT",
+        "relation": "is",
+        "object": "artificial intelligence model",
+        "evidence": "ChatGPT is an artificial intelligence model."
+    },
+    {
+        "subject": "Python",
+        "relation": "is used for",
+        "object": "machine learning",
+        "evidence": "Python is used for machine learning."
+    },
+    {
+        "subject": "NetworkX",
+        "relation": "is a",
+        "object": "Python library for creating and analyzing graphs",
+        "evidence": "NetworkX is a Python library for creating and analyzing graphs."
+    }
+]

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="predicate" attr.type="string" />
+  <key id="d4" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d3" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d2" for="node" attr.name="frequency" attr.type="long" />
+  <key id="d1" for="node" attr.name="labels" attr.type="string" />
+  <key id="d0" for="node" attr.name="name" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="elon musk">
+      <data key="d0">Elon Musk</data>
+      <data key="d1">PERSON</data>
+      <data key="d2">2</data>
+      <data key="d3">PERSON</data>
+    </node>
+    <node id="spacex">
+      <data key="d0">SpaceX</data>
+      <data key="d1">ORG</data>
+      <data key="d2">2</data>
+      <data key="d3">ORG</data>
+    </node>
+    <node id="the united states">
+      <data key="d0">the United States</data>
+      <data key="d1">GPE</data>
+      <data key="d2">1</data>
+      <data key="d3">GPE</data>
+    </node>
+    <node id="tesla">
+      <data key="d0">Tesla</data>
+      <data key="d1">ORG</data>
+      <data key="d2">1</data>
+      <data key="d3">ORG</data>
+    </node>
+    <node id="advanced rocket technology">
+      <data key="d0">advanced rocket technology</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d3">UNKNOWN</data>
+      <data key="d2">1</data>
+    </node>
+    <edge source="elon musk" target="spacex" id="0">
+      <data key="d4">found</data>
+      <data key="d5">found</data>
+    </edge>
+    <edge source="elon musk" target="the united states" id="0">
+      <data key="d4">found_in</data>
+      <data key="d5">found_in</data>
+    </edge>
+    <edge source="elon musk" target="tesla" id="0">
+      <data key="d4">lead</data>
+      <data key="d5">lead</data>
+    </edge>
+    <edge source="spacex" target="advanced rocket technology" id="0">
+      <data key="d4">develop</data>
+      <data key="d5">develop</data>
+    </edge>
+  </graph>
+</graphml>

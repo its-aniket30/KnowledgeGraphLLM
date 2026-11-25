@@ -1,0 +1,81 @@
+{
+    "directed": true,
+    "multigraph": true,
+    "nodes": [
+        {
+            "id": "elon musk",
+            "name": "Elon Musk",
+            "labels": [
+                "PERSON"
+            ],
+            "frequency": 2,
+            "entity_type": "PERSON"
+        },
+        {
+            "id": "spacex",
+            "name": "SpaceX",
+            "labels": [
+                "ORG"
+            ],
+            "frequency": 2,
+            "entity_type": "ORG"
+        },
+        {
+            "id": "the united states",
+            "name": "the United States",
+            "labels": [
+                "GPE"
+            ],
+            "frequency": 1,
+            "entity_type": "GPE"
+        },
+        {
+            "id": "tesla",
+            "name": "Tesla",
+            "labels": [
+                "ORG"
+            ],
+            "frequency": 1,
+            "entity_type": "ORG"
+        },
+        {
+            "id": "advanced rocket technology",
+            "name": "advanced rocket technology",
+            "labels": [
+                "UNKNOWN"
+            ],
+            "entity_type": "UNKNOWN",
+            "frequency": 1
+        }
+    ],
+    "edges": [
+        {
+            "source": "elon musk",
+            "target": "spacex",
+            "key": 0,
+            "relation": "found",
+            "predicate": "found"
+        },
+        {
+            "source": "elon musk",
+            "target": "the united states",
+            "key": 0,
+            "relation": "found_in",
+            "predicate": "found_in"
+        },
+        {
+            "source": "elon musk",
+            "target": "tesla",
+            "key": 0,
+            "relation": "lead",
+            "predicate": "lead"
+        },
+        {
+            "source": "spacex",
+            "target": "advanced rocket technology",
+            "key": 0,
+            "relation": "develop",
+            "predicate": "develop"
+        }
+    ]
+}

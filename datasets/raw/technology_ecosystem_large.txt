@@ -1,0 +1,142 @@
+KNOWLEDGE GRAPH DATASET: GLOBAL TECHNOLOGY AND BUSINESS ECOSYSTEM
+This document contains organization, leader, product, location and partnership information. It is designed for testing entity extraction, relation extraction, coreference resolution and graph construction.
+
+
+Record 1:
+Tesla is a technology and business organization associated with electric vehicles. Elon Musk leads Tesla, which operates from Austin. Tesla works with Panasonic on battery cells. Its notable product or platform is Supercharger network. The collaboration connects Tesla with partners across the technology industry.
+
+Record 2:
+SpaceX is a technology and business organization associated with launch vehicles. Elon Musk leads SpaceX, which operates from Hawthorne. SpaceX works with NASA on space missions. Its notable product or platform is Falcon 9. The collaboration connects SpaceX with partners across the technology industry.
+
+Record 3:
+Microsoft is a technology and business organization associated with cloud computing. Satya Nadella leads Microsoft, which operates from Redmond. Microsoft works with OpenAI on AI research. Its notable product or platform is Azure. The collaboration connects Microsoft with partners across the technology industry.
+
+Record 4:
+Google is a technology and business organization associated with search technology. Sundar Pichai leads Google, which operates from Mountain View. Google works with DeepMind on AI research. Its notable product or platform is Gemini. The collaboration connects Google with partners across the technology industry.
+
+Record 5:
+Apple is a technology and business organization associated with consumer electronics. Tim Cook leads Apple, which operates from Cupertino. Apple works with TSMC on semiconductor manufacturing. Its notable product or platform is iPhone. The collaboration connects Apple with partners across the technology industry.
+
+Additional context: Apple participates in the consumer electronics sector. The organization has operations connected with Cupertino. TSMC is an important business partner. This relationship supports semiconductor manufacturing and contributes to the development of iPhone.
+
+Record 6:
+Amazon is a technology and business organization associated with e-commerce. Andy Jassy leads Amazon, which operates from Seattle. Amazon works with AWS on cloud services. Its notable product or platform is Amazon Prime. The collaboration connects Amazon with partners across the technology industry.
+
+Record 7:
+NVIDIA is a technology and business organization associated with GPU technology. Jensen Huang leads NVIDIA, which operates from Santa Clara. NVIDIA works with Foxconn on hardware manufacturing. Its notable product or platform is CUDA. The collaboration connects NVIDIA with partners across the technology industry.
+
+Record 8:
+Adobe is a technology and business organization associated with creative software. Shantanu Narayen leads Adobe, which operates from San Jose. Adobe works with Microsoft on cloud integration. Its notable product or platform is Creative Cloud. The collaboration connects Adobe with partners across the technology industry.
+
+Record 9:
+IBM is a technology and business organization associated with enterprise technology. Arvind Krishna leads IBM, which operates from Armonk. IBM works with Red Hat on open source software. Its notable product or platform is  watsonx. The collaboration connects IBM with partners across the technology industry.
+
+Record 10:
+Netflix is a technology and business organization associated with streaming entertainment. Ted Sarandos leads Netflix, which operates from Los Gatos. Netflix works with AWS on cloud infrastructure. Its notable product or platform is recommendation system. The collaboration connects Netflix with partners across the technology industry.
+
+Additional context: Netflix participates in the streaming entertainment sector. The organization has operations connected with Los Gatos. AWS is an important business partner. This relationship supports cloud infrastructure and contributes to the development of recommendation system.
+
+Record 11:
+Uber is a technology and business organization associated with ride sharing. Dara Khosrowshahi leads Uber, which operates from San Francisco. Uber works with Google Maps on mapping services. Its notable product or platform is Uber Eats. The collaboration connects Uber with partners across the technology industry.
+
+Record 12:
+Airbnb is a technology and business organization associated with travel accommodation. Brian Chesky leads Airbnb, which operates from San Francisco. Airbnb works with Stripe on payment processing. Its notable product or platform is host platform. The collaboration connects Airbnb with partners across the technology industry.
+
+Record 13:
+Qualcomm is a technology and business organization associated with mobile processors. Cristiano Amon leads Qualcomm, which operates from San Diego. Qualcomm works with Samsung on device manufacturing. Its notable product or platform is Snapdragon. The collaboration connects Qualcomm with partners across the technology industry.
+
+Record 14:
+Intel is a technology and business organization associated with processors. Lip-Bu Tan leads Intel, which operates from Santa Clara. Intel works with ASML on lithography equipment. Its notable product or platform is Core processors. The collaboration connects Intel with partners across the technology industry.
+
+Record 15:
+AMD is a technology and business organization associated with computer processors. Lisa Su leads AMD, which operates from Santa Clara. AMD works with TSMC on chip fabrication. Its notable product or platform is EPYC. The collaboration connects AMD with partners across the technology industry.
+
+Additional context: AMD participates in the computer processors sector. The organization has operations connected with Santa Clara. TSMC is an important business partner. This relationship supports chip fabrication and contributes to the development of EPYC.
+
+Record 16:
+Oracle is a technology and business organization associated with database systems. Safra Catz leads Oracle, which operates from Austin. Oracle works with Red Bull Racing on technology partnership. Its notable product or platform is Oracle Cloud. The collaboration connects Oracle with partners across the technology industry.
+
+Record 17:
+Salesforce is a technology and business organization associated with customer relationship management. Marc Benioff leads Salesforce, which operates from San Francisco. Salesforce works with Google on business integration. Its notable product or platform is Einstein AI. The collaboration connects Salesforce with partners across the technology industry.
+
+Record 18:
+Spotify is a technology and business organization associated with music streaming. Daniel Ek leads Spotify, which operates from Stockholm. Spotify works with Google Cloud on cloud infrastructure. Its notable product or platform is personalized playlists. The collaboration connects Spotify with partners across the technology industry.
+
+Record 19:
+Cisco is a technology and business organization associated with networking equipment. Chuck Robbins leads Cisco, which operates from San Jose. Cisco works with Splunk on security analytics. Its notable product or platform is Webex. The collaboration connects Cisco with partners across the technology industry.
+
+Record 20:
+Samsung is a technology and business organization associated with consumer electronics. Jong-Hee Han leads Samsung, which operates from Suwon. Samsung works with Google on Android ecosystem. Its notable product or platform is Galaxy. The collaboration connects Samsung with partners across the technology industry.
+
+Additional context: Samsung participates in the consumer electronics sector. The organization has operations connected with Suwon. Google is an important business partner. This relationship supports Android ecosystem and contributes to the development of Galaxy.
+
+Record 21:
+Tata Consultancy Services is a technology and business organization associated with IT consulting. K Krithivasan leads Tata Consultancy Services, which operates from Mumbai. Tata Consultancy Services works with AWS on cloud services. Its notable product or platform is TCS BaNCS. The collaboration connects Tata Consultancy Services with partners across the technology industry.
+
+Record 22:
+Infosys is a technology and business organization associated with IT consulting. Salil Parekh leads Infosys, which operates from Bengaluru. Infosys works with Microsoft on cloud partnership. Its notable product or platform is Infosys Topaz. The collaboration connects Infosys with partners across the technology industry.
+
+Record 23:
+Wipro is a technology and business organization associated with IT services. Srinivas Pallia leads Wipro, which operates from Bengaluru. Wipro works with Google Cloud on cloud partnership. Its notable product or platform is Wipro ai360. The collaboration connects Wipro with partners across the technology industry.
+
+Record 24:
+Reliance Industries is a technology and business organization associated with telecommunications. Mukesh Ambani leads Reliance Industries, which operates from Mumbai. Reliance Industries works with Meta on digital services. Its notable product or platform is Jio. The collaboration connects Reliance Industries with partners across the technology industry.
+
+Record 25:
+Tata Motors is a technology and business organization associated with automotive manufacturing. Shailesh Chandra leads Tata Motors, which operates from Mumbai. Tata Motors works with Jaguar Land Rover on vehicle engineering. Its notable product or platform is Nexon EV. The collaboration connects Tata Motors with partners across the technology industry.
+
+Additional context: Tata Motors participates in the automotive manufacturing sector. The organization has operations connected with Mumbai. Jaguar Land Rover is an important business partner. This relationship supports vehicle engineering and contributes to the development of Nexon EV.
+
+Record 26:
+Mahindra is a technology and business organization associated with automotive manufacturing. Anish Shah leads Mahindra, which operates from Mumbai. Mahindra works with Volkswagen on automotive technology. Its notable product or platform is BE 6. The collaboration connects Mahindra with partners across the technology industry.
+
+Record 27:
+Flipkart is a technology and business organization associated with e-commerce. Kalyan Krishnamurthy leads Flipkart, which operates from Bengaluru. Flipkart works with Walmart on retail investment. Its notable product or platform is Big Billion Days. The collaboration connects Flipkart with partners across the technology industry.
+
+Record 28:
+PayPal is a technology and business organization associated with digital payments. Alex Chriss leads PayPal, which operates from San Jose. PayPal works with Visa on payment network. Its notable product or platform is Venmo. The collaboration connects PayPal with partners across the technology industry.
+
+Record 29:
+BYD is a technology and business organization associated with electric vehicles. Wang Chuanfu leads BYD, which operates from Shenzhen. BYD works with CATL on battery technology. Its notable product or platform is Blade Battery. The collaboration connects BYD with partners across the technology industry.
+
+Record 30:
+Toyota is a technology and business organization associated with automotive manufacturing. Koji Sato leads Toyota, which operates from Toyota City. Toyota works with Panasonic on battery partnership. Its notable product or platform is Prius. The collaboration connects Toyota with partners across the technology industry.
+
+Additional context: Toyota participates in the automotive manufacturing sector. The organization has operations connected with Toyota City. Panasonic is an important business partner. This relationship supports battery partnership and contributes to the development of Prius.
+
+Record 31:
+SpaceX is a technology and business organization associated with satellite internet. Elon Musk leads SpaceX, which operates from Hawthorne. SpaceX works with T-Mobile on mobile connectivity. Its notable product or platform is Starlink. The collaboration connects SpaceX with partners across the technology industry.
+
+Record 32:
+Tesla is a technology and business organization associated with energy storage. Elon Musk leads Tesla, which operates from Austin. Tesla works with CATL on battery supply. Its notable product or platform is Megapack. The collaboration connects Tesla with partners across the technology industry.
+
+Record 33:
+Google is a technology and business organization associated with mobile operating systems. Sundar Pichai leads Google, which operates from Mountain View. Google works with Samsung on device partnership. Its notable product or platform is Android. The collaboration connects Google with partners across the technology industry.
+
+Record 34:
+Microsoft is a technology and business organization associated with productivity software. Satya Nadella leads Microsoft, which operates from Redmond. Microsoft works with LinkedIn on professional networking. Its notable product or platform is Microsoft 365. The collaboration connects Microsoft with partners across the technology industry.
+
+Record 35:
+Amazon is a technology and business organization associated with artificial intelligence. Andy Jassy leads Amazon, which operates from Seattle. Amazon works with Anthropic on AI collaboration. Its notable product or platform is Bedrock. The collaboration connects Amazon with partners across the technology industry.
+
+Additional context: Amazon participates in the artificial intelligence sector. The organization has operations connected with Seattle. Anthropic is an important business partner. This relationship supports AI collaboration and contributes to the development of Bedrock.
+
+Record 36:
+NVIDIA is a technology and business organization associated with AI computing. Jensen Huang leads NVIDIA, which operates from Santa Clara. NVIDIA works with Microsoft on AI infrastructure. Its notable product or platform is DGX systems. The collaboration connects NVIDIA with partners across the technology industry.
+
+Record 37:
+Apple is a technology and business organization associated with wearable technology. Tim Cook leads Apple, which operates from Cupertino. Apple works with Corning on glass materials. Its notable product or platform is Apple Watch. The collaboration connects Apple with partners across the technology industry.
+
+Record 38:
+IBM is a technology and business organization associated with quantum computing. Arvind Krishna leads IBM, which operates from Armonk. IBM works with Cleveland Clinic on research collaboration. Its notable product or platform is IBM Quantum. The collaboration connects IBM with partners across the technology industry.
+
+Record 39:
+Cisco is a technology and business organization associated with cybersecurity. Chuck Robbins leads Cisco, which operates from San Jose. Cisco works with Splunk on security platform. Its notable product or platform is Cisco Security. The collaboration connects Cisco with partners across the technology industry.
+
+Record 40:
+Adobe is a technology and business organization associated with digital marketing. Shantanu Narayen leads Adobe, which operates from San Jose. Adobe works with Google on advertising integration. Its notable product or platform is Experience Cloud. The collaboration connects Adobe with partners across the technology industry.
+
+Additional context: Adobe participates in the digital marketing sector. The organization has operations connected with San Jose. Google is an important business partner. This relationship supports advertising integration and contributes to the development of Experience Cloud.
+
+Record 41:
+Netflix is a technology and business organization associated with film production. Ted Sarandos leads Netflix, which operates from Los Gatos. Netflix works with Sony Pictures on content partnership. Its notable product or platform is original series. The collaboration connects Netflix with partners across the technology industry.

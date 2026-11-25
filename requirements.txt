@@ -1,0 +1,15 @@
+<CodeBlock language="text" editable>
+streamlit
+networkx
+spacy
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+plotly
+pyvis
+python-louvain
+tqdm
+pytest
+</CodeBlock>

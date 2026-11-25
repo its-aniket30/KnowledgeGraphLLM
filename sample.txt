@@ -1,0 +1,6 @@
+Google developed Gemini.
+Gemini is an artificial intelligence model.
+OpenAI developed ChatGPT.
+ChatGPT is an artificial intelligence model.
+Python is used for machine learning.
+NetworkX is a Python library for creating and analyzing graphs.
